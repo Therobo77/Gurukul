@@ -132,8 +132,10 @@ function Navbar() {
 
     return (
         <div className='navbar'>
+
             <div className='navbar--container'>
-                <h1 style={{ color: theme.secondary }}>
+                {/* <h1 style={{ color: theme.secondary }}> */}
+                <h1 style={{ color: 'black' }}>
                     {shortname(headerData.name)}
                 </h1>
 
@@ -143,6 +145,7 @@ function Navbar() {
                     aria-label='Menu'
                 />
             </div>
+            
             <Drawer
                 variant='temporary'
                 onClose={(event, reason) => {
@@ -211,7 +214,7 @@ function Navbar() {
                             </NavLink>
                         </Fade>
 
-                        <Fade left>
+                        {/* <Fade left>
                             <NavLink
                                 to='/#resume'
                                 smooth={true}
@@ -227,8 +230,8 @@ function Navbar() {
                                     </span>
                                 </div>
                             </NavLink>
-                        </Fade>
-
+                        </Fade> */}
+{/* 
                         <Fade left>
                             <NavLink
                                 to='/#skill'
@@ -245,7 +248,7 @@ function Navbar() {
                                     </span>
                                 </div>
                             </NavLink>
-                        </Fade>
+                        </Fade> */}
 
                         <Fade left>
                             <NavLink

@@ -1,23 +1,31 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Masai School Bangalore',
-        course: 'Full Stack web-developer',
-        startYear: 'Oct 2021',
+        institution: 'Gurukul Deoghar',
+        course: '15+ Years of Experience in Physics',
+        startYear: '1999',
         endYear: 'Present'
     },
     {
         id: 2,
-        institution: 'Government Polytechnic Ghaziabad',
-        course: 'Information Technology',
-        startYear: '2018',
-        endYear: '2021'
+        institution: 'D R D O',
+        course: 'Missile Scientist',
+        startYear: 'N/A',
+        endYear: 'N/A'
     },
     {
-        id: 3,
-        institution: 'Chhatrapati Shivaji Saraswati Vidyamandir Bulandshahr UP',
-        course: 'Intermediate',
-        startYear: '2016',
-        endYear: '2018'
+        id: 1,
+        institution: 'IIT Guwahati',
+        course: 'Mechanical Engineering',
+        startYear: 'N/A',
+        endYear: 'N/A'
     },
+    {
+        id: 1,
+        institution: 'R Mitra Deoghar',
+        course: 'Intermidiate in PCM',
+        startYear: 'N/A',
+        endYear: 'N/A'
+    },
+    
 ]

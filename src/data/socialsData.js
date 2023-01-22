@@ -1,13 +1,13 @@
 export const socialsData = {
-    github: 'https://github.com/webdeveshverma',
-    facebook: 'https://www.facebook.com/profile.php?id=100047654323640',
-    linkedIn: 'https://www.linkedin.com/in/devesh-verma-6760761b8/',
+    github: 'https://github.com/Therobo77',
+    facebook: 'https://www.facebook.com/',
+    linkedIn: 'https://www.linkedin.com/',
     instagram: 'https://www.instagram.com/',
     codepen: 'https://codepen.io/',
-    twitter: 'https://twitter.com/webdeveshverma',
+    twitter: 'https://twitter.com/',
     reddit: 'https://www.reddit.com/user/',
     blogger: 'https://www.blogger.com/',
-    medium: 'https://medium.com/@webdeveshverma',
+    medium: 'https://medium.com/',
     stackOverflow: 'https://stackoverflow.com/users/',
     gitlab: 'https://gitlab.com/',
     youtube: 'https://youtube.com/'

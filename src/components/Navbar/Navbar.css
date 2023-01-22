@@ -10,6 +10,9 @@
 }
 
 .navbar--container {
+    /* position: fixed; */
+    /* border: 5px solid rgb(234, 223, 13); */
+    border-radius: 23px;
     display: flex;
     align-items: center;
     justify-content: space-between;
